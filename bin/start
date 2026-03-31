@@ -1,0 +1,53 @@
+#!/bin/bash
+# Script to install zola site as docker-compose
+# https://www.getzola.org/documentation/deployment/docker-image/
+set -e -u -o pipefail
+set -x
+zero=$(readlink -f "$0")
+zerodir="${zero%/*}"
+: "${CDIR:=/etc/docker/containers}"
+: "${EXT_HOSTNAME:=wake-poc.lgbtqdemocrats.com}"
+Main() {
+	set -e
+	Docker
+	Build
+	Install
+	exit 0
+}
+Docker() {
+	if ! [ -x /usr/bin/docker ]; then
+		curl -sSL https://get.docker.com | sh
+	fi
+	# https://docs.docker.com/engine/install/linux-postinstall/#manage-docker-as-a-non-root-user
+	local groups
+	groups=$(sudo -u "$LOGNAME" id --groups --name)
+	if [ "$groups" == "${groups##* docker }" ]; then
+		sudo adduser "$LOGNAME" docker
+	fi
+}
+Build() {
+	sudo docker build -t "${EXT_HOSTNAME}:latest" "$zerodir/.."
+}
+Install() {
+	local dir="${CDIR}/${EXT_HOSTNAME}"
+	sudo mkdir -p "$dir"
+	sudo tee "$dir/docker-compose.yml" > /dev/null << EEOOTT
+services:
+  static_site:
+    image: ${EXT_HOSTNAME}:latest
+    networks:
+      - caddy
+    restart: unless-stopped
+    labels:
+      caddy: $EXT_HOSTNAME
+      caddy.reverse_proxy: "{{upstreams 80}}"
+      caddy.log.output: stderr
+
+networks:
+  caddy:
+    external: true
+EEOOTT
+	(cd "$dir" && sudo -u "$LOGNAME" docker compose up --detach --wait)
+}
+# shellcheck disable=SC2317 # This is a persistent NFS catch-all
+Main "$@" && exit 1

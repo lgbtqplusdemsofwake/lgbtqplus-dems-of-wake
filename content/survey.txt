@@ -1,0 +1,165 @@
++++
+date = 2026-01-08
++++
+Etherpad usage notes at bottom.
+Please use Markdown Strike Through (~~) to mark text you wish removed.
+
+Survey
+
+Hi,
+I'm Katie Day.  I am an at large board member of the LGBTQ+ Dems of Wake County.
+This is a survey for candidates in the 2026 North Carolina Primaries.  This survey is antagonistic by design.  It will make you uncomfortable.  Discomfort is required to help those in greater discomfort.
+
+I hope this survey receives the blessing of the LGBTQ+ Dems of Wake County, Mecklenberg County, and NC.
+
+I know your campaign manager is overloaded with 40 similar surveys.  This survey is designed to take minimal time by being yes/no/let me ask a friend/I don't know and I don't have a friend that I can ask/this is a loaded question.
+
+A score card will be created for each candidate that receives this survey.  Answering the survey guarantees a higher score.
+Some answers will be fact checked and that will be considered against the score.
+Some score cards will be annotated with "This candidate is bad.  We will survive slightly longer if this candidate is elected."
+The score cards will be published and distributed to political and activist groups.
+
+
+Questions:
+1. Candidate Consent
+
+    1. Do you consent to the publication of my long form answers. (a=2, c=1, d=1)
+
+    a. yes; b. no; c. I need to speak with my counsel; d. I don't know; e. this is a loaded question (mu)
+
+2. Suitability
+
+    1. Do you believe bargaining with a tyrant works? (b=2)
+
+    2. Do you believe being elected/remaining in office is more important than your most marginalized constituents? (b=2)
+
+    3. Do you believe believe you should accept money from interests that displace or delete marginalized populations? (b=2) (fact check)
+
+    4. Do you believe believe it's acceptable to further interests that displace or delete marginalized populations after you accept the money from those interests? (b=2) (fact check)
+
+    6. Do you believe you should hide threats from interests that displace or delete marginalized populations when you decline money or agenda from those interests? (b=2, c=1, d=1) (fact check)
+
+    7. Describe your suitability for office in terms a 6th grader can understand (optional).
+
+3. LGBTQ Issues
+
+    1. Did you accept the sexuality people told you should be without deep consideration? (a=2, d=1)
+
+    2. Do you know people that thought about their sexuality and realized they were something different from what they were told? (a=2, d=1)
+
+    3. Have you had a sit down meal with a person with a different sexuality in the past year? (a=2)
+
+    4. Did you accept the gender people told you you should be without deep consideration? (a=2, d=1)
+
+    5. Do you know people that thought about their gender and realized they were different from what they were told? (a=2, d=1)
+
+    6. Have you had a sit down meal with a person with a different gender identity in the past year? (a=2)
+
+    7. Desribe your awareness of issues faced by LGBTQ+ individuals that you do not experience (optional).
+
+4. LGBTQ Distractions
+
+    1. Do you believe parents should mutilate the genitals of children that do not comply with the standard penis or vagina? (b=2)
+
+    2. Do you believe cosmetic procedures on minors for winning beauty pageants is okay?  (b=2)
+
+    3. Do you believe it's fine for parents to kick children out of their house for differences in religion, politics, sexual orientation, or gender identity? (b=2)
+
+    4. Do you believe the genital mutilation of infants with penises is acceptable without a religious or health reason? (b=2)
+
+    5. Do you believe it is acceptable for celebrities, clergy, cops, and other authority figures to sexually assault children?  (b=2)
+
+    6. Do you believe it is fine to inspect women's genitals before allowing them to use a public restroom? (b=2)
+
+    7. Do you believe it is fine for coaches to inspect girls' genitals before allowing them to play sports? (b=2)
+
+    The previous seven questions cover existing bad behavior from those that spew anti LGBTQ+ propaganda.  
+
+    8. Describe what you realized was anti-LGBTQ+ propaganda (optional).
+
+    9. Describe your misgivings and concerns about LGBTQ+ individuals (optional).
+
+5. Human Rights
+
+    1. Do you believe folks should have sufficient sustaining food? (a=2)
+
+    2. Do you believe folks should have shelter from the elements? (a=2)
+
+    3. Do you believe folks should have access to transportation? (a=2)
+
+    4. Do you believe folks should have access to healthcare? (a=2)
+
+    5. Do you believe women should have the same rights in ANY territory, state, or commonwealth within the United States? (a=2)
+
+    6. Do you believe people have the right to freedom from religion and that individuals may choose to reject that right? (a=2)
+
+    7. Do you believe a corporation cannot have the rights of person until the state of Texas executes one? (a=2)
+
+    8. Do you understand the options to end homelessness are to house them or unalive them? (b=2)
+
+6. Tolerance Paradox
+
+    1. Does extending tolerance to the intolerant strengthens tolerance and freedom? (b=2)
+
+    2. Do you believe the Trump regime should be tried for treason? (a=2)
+
+    3. Do you believe the Trump regime should be tried at the Hague for war crimes? (a=2)
+
+    4. Do you believe people I do not like should lose due process? (b=2, c=1, d=1)
+
+7. Were You Paying Attention
+
+    1. Do you still beat your spouse?
+
+    2. Does your mother know you're gay?
+
+    3) Does your mother know you're trans?
+
+8. Sheriff Specific
+
+    1. Do you believe concealed carry permits should be printed by the same facility that issues North Carolina Driver Licenses and State IDs? (a=2)
+
+    2. Do you believe federal agents that violate due process should be arrested and detained?  (a=2)
+
+    3. Do you believe firing less-lethal projectiles and tear gas into groups of peaceful protestors in unacceptable? (a=2)
+
+    4. Do you believe the Sheriff's office should be accountable to more than just the voters? (a=2)
+
+9. County and Municipal Specific
+
+    1. Do you believe every planning and zoning decision should include the statutes and court decisions that constrained the decision? (a=2)
+
+    2. Do you believe every planning and zoning decision should include the names of all elected and appointed officials behind the statutes and court decisions that constrained the decision as well as their current status in governance? (a=2)
+
+    3. Do you believe contituents should be informed of lobbying groups to bring planning and zoning autonomy back to county and municipal governments? (a=2)
+
+    4. Do you believe the public has a right to know the investors behind the agent requesting a planning or zoning decision? (a=2)
+
+10. County Specific
+
+    1. Do you support building code changes that support emergency housing solutions such as the Conestoga hut? (a=2)
+
+11. DA Specific
+12. Senate
+13. House
+
+
+
+This is an etherpad service hosted by Riseup. Riseup provides secure online communication tools for people and groups working for liberatory social change.
+
+Riseup depends on donations from users like you to keep going. Please visit https://riseup.net/donate to contribute.
+
+WARNING: This "pad" is a collaborative document that can be edited by anyone who has the URL. If you use an obvious name for the pad, it could be guessed.
+
+WARNING: This pad will be DELETED if 60 days go by with no edits. There is NO WAY to recover the pad after this happens, so be careful!
+
+If you want a pad to be kept for up to one year (365 days) without edits, append the word "-keep" to the end of the pad name.
+
+If you want a pad to be deleted after one day, append the word "-tmp" to the end of the pad name.
+
+For example:
+* https://pad.riseup.net/p/1234-tmp => deleted after 1 day of inactivity
+* https://pad.riseup.net/p/1234 => deleted after 60 days of inactivity
+* https://pad.riseup.net/p/1234-keep => deleted after 365 days of inactivity
+
+Abusive behavior is not allowed on this service. Please visit https://support.riseup.net to report any problems.
