@@ -2,6 +2,28 @@
 title = "Our Team & About Us"
 +++
 
+# About Us
+
+We are the Wake County chapter of the 
+[LGBTQ+ Democrats of North Carolina](https://www.lgbtqdemocrats.org/).
+
+The LGBTQ+ Democrats of Wake County works within the Wake County 
+Democratic Party, to provide a strong voice and representation for 
+LGBTQ+ people.  Our goal is to secure fully equal rights for all 
+LGBTQ+ citizens through effective legislation and policies, to elect 
+pro-equality Democrats to office, and encourage LGBTQ+ people to 
+participate fully as Democrats at all levels of policy making and 
+public service.
+
+We are **NOT**:
+
+* An activist group.
+* A gathering point for counties within the unorganized regional group as defined by the
+  [LGBTQ+ Democrats of North Carolina](https://www.lgbtqdemocrats.org/).
+* A useful voice for municipalities that sprawl beyond Wake County
+
+# Meet Our Board
+
 ## Brandi Brown, President (she/her)
 
 ![Brandi Brown](Headshot+Brandi+Brown.jpg)
@@ -38,14 +60,14 @@ marginalized voices and believes in the power of collaboration to
 create lasting change. Cody lives in Raleigh with his husband and 
 their two dogs.
 
-## Secretary (vacant)
+### Secretary (vacant)
 
 We currently have two openings on our Board, one for Secretary and 
 another for a Member-at-Large. If you’re interested in getting 
 involved in either role, please reach out to us at 
 [admin@lgbtqdemsofwake.com](mailto:admin@lgbtqdemsofwake.com)!
 
-## Rich Elkins, Treasurer/Member at-Large (he/him)
+### Rich Elkins, Treasurer/Member at-Large (he/him)
 
 ![Rich Elkins](Rich+Elkins+Headshot.jpg)
 
@@ -59,7 +81,7 @@ served as our Chapter President from 2021-24 and currently serves as
 a Precinct Chair in East Raleigh, WCDP Assistant Parliamentarian, and
 a member of the SEC.
 
-## Katie Day, Member at-Large (they/she)
+### Katie Day, Member at-Large (they/she)
 
 ![Katie Day](Katie+Day+Animal+Control.jpg)
 
@@ -85,7 +107,7 @@ to conservative parents about keeping a trans child surving and
 thriving.  She's comfortable digging through public data to make the 
 slog suck less.  
 
-## Chase Franklin, Member At-Large (he/him)
+### Chase Franklin, Member At-Large (he/him)
 
 ![Chase Franklin](chase+updated.jpg)
 
@@ -113,24 +135,14 @@ Whether showing up for their neighbors or shutting down ultimates in
 overtime, Chase brings the same energy: principled, passionate, and 
 ready to fight for a better world.
 
-## Member at-Large Vacant
+## Que Vapne, Member At-Large (get pronouns)
 
-We still have room for another Member at-Large to our Board. If 
-you’re interested in being more involved in supporting our goals, a 
-Member at-Large position is a great place to start.
+Request Biography from Que
 
-Reach out to any Board Member to express your interest!
+# Documents
 
-
-# About Us
-
-![LGBTQ+DEMSNC Wake County](LGBTQDEMSWakeLogo.webp)
-
-The LGBTQ+ Democrats of Wake County works within the Wake County 
-Democratic Party, to provide a strong voice and representation for 
-LGBTQ+ people.  Our goal is to secure fully equal rights for all 
-LGBTQ+ citizens through effective legislation and policies, to elect 
-pro-equality Democrats to office, and encourage LGBTQ+ people to 
-participate fully as Democrats at all levels of policy making and 
-public service.
-
+* [County Chapter Bylaws](Bylaws_Revised_2024_-_LGBTQ\+_Democrats_of_Wake_County_Bylaws.pdf)
+  * [Country Chapter Bylaws on Google Drive](https://drive.google.com/file/d/1bm_9X3SXXj2Bjb88kUg1WYgHecI6s2H5/view)
+* [State Bylaws](lgbtqplusdemocratsnc_bylaws.pdf)
+  * [State ByLaws from Their Content Management System](https://e5cb46e8-3a57-4d81-9fa6-d6354ff497d5.filesusr.com/ugd/dff851_37c9c4cb9d0b48bf8bddffecfd0487e8.pdf)
+* [Meeting Minutes](quoth_the_server_404)
